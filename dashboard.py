@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('all_data.csv')
+df = pd.read_csv('main_data.csv')
 
 # Set the title and logo
 st.title("🏍️ Dashboard Penyewaan Sepeda")
